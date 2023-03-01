@@ -27,19 +27,19 @@ char	*ft_generator(int n)
 	{
 		ctb = (rand() % 8);
 		if (ctb == 0)
-			name = "Jessica";
+			name = "Jes";
 		else if (ctb == 1)
-			name = "Akkelys";
+			name = "Akky";
 		else if (ctb == 2)
-			name = "Arnout";
+			name = "Arnie";
 		else if (ctb == 3)
-			name = "Gerrit";
+			name = "Ger";
 		else if (ctb == 4)
-			name = "Johanna";
+			name = "Joha";
 		else if (ctb == 5)
-			name = "Lowi";
+			name = "Low";
 		else if (ctb == 6)
-			name = "Oscar";
+			name = "Ossie";
 		else if (ctb == 7)
 			name = "Blubger";
 		else
